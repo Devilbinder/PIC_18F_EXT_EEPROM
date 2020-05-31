@@ -1,4 +1,5 @@
 # **PIC EXTERNAL EEPROM**
+
 This video Demonstrates how to use a 24LC16B external EEPROM with a PIC18F4520.
 
 [![External Microcontroller Peripherals - Programming an EEROM](https://img.youtube.com/vi/_XSJn9KIxJ4/0.jpg)](https://www.youtube.com/watch?v=_XSJn9KIxJ4 "External Microcontroller Peripherals - Programming an EEROM")
@@ -7,6 +8,9 @@ This video Demonstrates how to use a 24LC16B external EEPROM with a PIC18F4520.
 
 Shekels: 
 https://www.paypal.me/bindertronics9/5
+
+Patreon:
+https://www.patreon.com/BinderTronics
 
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
